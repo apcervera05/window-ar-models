@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "id": "oscilobatiente_600x1200",
+      "name": "Oscilobatiente",
+      "material": "PVC blanco · 1 hoja · manilla",
+      "widthCm": 60,
+      "heightCm": 120,
+      "depthCm": 7,
+      "round": false,
+      "usdz": {
+        "path": "usdz/oscilobatiente_600x1200.usdz",
+        "sha256": "6398258c257cc59e167386e70d9290f9ec0451d2903a3d0bf71a50d41818c1d6",
+        "bytes": 13545
+      },
+      "glb": {
+        "path": "oscilobatiente_600x1200.glb",
+        "sha256": "53102f8feb40090a9a54c1cbb4b476cbf4a542d66e40eb3b3a7c1c69d70d5004",
+        "bytes": 15984
+      },
+      "thumbnail": {
+        "path": "thumbs/oscilobatiente_600x1200_thumb.jpg",
+        "sha256": "d48baa21e33baae86a627cdcc491d5ec10c0bbd1b51526efe4e78ec429b99754",
+        "bytes": 17767
+      }
+    },
+    {
+      "id": "corredera_1500x1200",
+      "name": "Corredera",
+      "material": "Aluminio antracita RAL 7016 · 2 hojas",
+      "widthCm": 150,
+      "heightCm": 120,
+      "depthCm": 7,
+      "round": false,
+      "usdz": {
+        "path": "usdz/corredera_1500x1200.usdz",
+        "sha256": "50ac054db40af83bb138b447529dfd826c39a92300f24c447f5c19a679145f04",
+        "bytes": 15295
+      },
+      "glb": {
+        "path": "corredera_1500x1200.glb",
+        "sha256": "0c534392d200574be779036ec90ffa841c230ff4d1042093a8b186d8ef9edeba",
+        "bytes": 18176
+      },
+      "thumbnail": {
+        "path": "thumbs/corredera_1500x1200_thumb.jpg",
+        "sha256": "1399eabbc2e8a23b88a0e454ddc3f5b7f97618c9dc1f26868cc910e4cfac8777",
+        "bytes": 23251
+      }
+    },
+    {
+      "id": "panoramica_1800x1400",
+      "name": "Panorámica",
+      "material": "Madera de roble · fijo central, 2 batientes y montante",
+      "widthCm": 180,
+      "heightCm": 140,
+      "depthCm": 8,
+      "round": false,
+      "usdz": {
+        "path": "usdz/panoramica_1800x1400.usdz",
+        "sha256": "5be7a0ad33fd581869bafdf8bfa2b18163acee4e25a797cc6c2a7238a716b793",
+        "bytes": 29653
+      },
+      "glb": {
+        "path": "panoramica_1800x1400.glb",
+        "sha256": "4fe6fdb26e4898f7468f525f10fb9716c299b6fc5c39da5540cf9051d1da77fa",
+        "bytes": 36248
+      },
+      "thumbnail": {
+        "path": "thumbs/panoramica_1800x1400_thumb.jpg",
+        "sha256": "67dbd9bd394597cf8ca46fa45baf78645b49194e5103c97c0d8e949b7b993b47",
+        "bytes": 26066
+      }
+    },
+    {
+      "id": "ojo_de_buey_600",
+      "name": "Ojo de buey",
+      "material": "PVC blanco · fija con cruceta",
+      "widthCm": 60,
+      "heightCm": 60,
+      "depthCm": 7,
+      "round": true,
+      "usdz": {
+        "path": "usdz/ojo_de_buey_600.usdz",
+        "sha256": "31bc21b1696f38476b98a1c5763900c9e9c6c5629d0015038fb717dc5837a97a",
+        "bytes": 99367
+      },
+      "glb": {
+        "path": "ojo_de_buey_600.glb",
+        "sha256": "1d9f38592bbfc2021d2653de61ebda2953989f6e6ed3ddca5ea5043be7538a61",
+        "bytes": 120476
+      },
+      "thumbnail": {
+        "path": "thumbs/ojo_de_buey_600_thumb.jpg",
+        "sha256": "66afd444e08d44b98ead9cbcbeed3fbd4acc4c2018b99ac9dd69123e501bc8ca",
+        "bytes": 22829
+      }
+    }
+  ]
+}
